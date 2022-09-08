@@ -1,0 +1,1 @@
+{"version":3,"file":"vue.js","sources":["../src/index.js"],"sourcesContent":["export const a = 100;\r\ndebugger\r\nexport default {\r\n  b: 1\r\n}"],"names":["a","b"],"mappings":";;;;;;AAAO,MAAMA,CAAC,GAAG,IAAV;EACP,SAAA;AACA,cAAe;EACbC,EAAAA,CAAC,EAAE,CAAA;EADU,CAAf;;;;;;;;;;;"}
